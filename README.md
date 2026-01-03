@@ -1,10 +1,6 @@
 # Hi, I'm Yaswanth Ravi Teja Dammalapati :wave:
 
-Software engineer with hands-on experience building containerized applications and automating infrastructure. Delivered
-IoT monitoring systems using Python, Docker, InfluxDB, and Grafana; implemented CI/CD pipelines with GitHub Actions
-and Kubernetes. Experienced with Infrastructure as Code (Terraform) for AWS deployments. Quick learner who
-adapts rapidly to new technologies and integrates seamlessly into cross-functional teams. Seeking to contribute to
-operational excellence and reliable software delivery.\
+Software engineer with hands-on experience building containerized applications, microservices architecture, and automating infrastructure. Delivered IoT monitoring systems using Python, Docker, InfluxDB, and Grafana; implemented CI/CD pipelines with GitHub Actions and Kubernetes. Experienced with Infrastructure as Code (Terraform) for AWS deployments and orchestrating microservices with Docker and Kubernetes. Quick learner who adapts rapidly to new technologies and integrates seamlessly into cross-functional teams. Seeking to contribute to operational excellence and reliable software delivery.\
 \
 Always learning. 🤟🏻
 
