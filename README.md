@@ -8,6 +8,15 @@ Always learning. 🤟🏻
 
 <a href="https://zachnguyen.com/t" target="_blank"><img alt="A terminal window showing a rotating teapot animation drawn using ASCII characters." align="right" src="img/t.gif" /></a>
 
+### UI_UX
+
+![Figma](https://img.shields.io/badge/C++-3DDC84?logo=cplusplus&logoColor=white&style=for-the-badge)
+![Webflow](https://img.shields.io/badge/Java-00599C?logo=java&logoColor=white&style=for-the-badge)
+![Framer](https://img.shields.io/badge/JavaScript-000000?logo=javascript&logoColor=black&style=for-the-badge)
+![Adobe XD](https://img.shields.io/badge/Python-FFFFFF?logo=python&logoColor=white&style=for-the-badge)
+![Wireframe Design](https://img.shields.io/badge/TypeScript-F5792A?logo=typescript&logoColor=white&style=for-the-badge)
+![Material Design](https://img.shields.io/badge/SQL-00599C?logo=SQL&logoColor=white&style=for-the-badge)
+
 ### Programming languages
 
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge)
