@@ -10,12 +10,12 @@ Always learning. 🤟🏻
 
 ### UI_UX
 
-![Figma](https://img.shields.io/badge/Figma-3DDC84?logo=cplusplus&logoColor=white&style=for-the-badge)
-![Webflow](https://img.shields.io/badge/Webflow-00599C?logo=java&logoColor=white&style=for-the-badge)
-![Framer](https://img.shields.io/badge/Framer-000000?logo=javascript&logoColor=black&style=for-the-badge)
-![Adobe XD](https://img.shields.io/badge/AdobeXD-FFFFFF?logo=python&logoColor=white&style=for-the-badge)
-![Wireframe Design](https://img.shields.io/badge/WireframeDesign-F5792A?logo=typescript&logoColor=white&style=for-the-badge)
-![Material Design](https://img.shields.io/badge/MaterialDesign-00599C?logo=SQL&logoColor=white&style=for-the-badge)
+![Figma](https://img.shields.io/badge/Figma-3DDC84?logo=Figma&logoColor=white&style=for-the-badge)
+![Webflow](https://img.shields.io/badge/Webflow-00599C?logo=Webflow&logoColor=white&style=for-the-badge)
+![Framer](https://img.shields.io/badge/Framer-000000?logo=Framer&logoColor=black&style=for-the-badge)
+![Adobe XD](https://img.shields.io/badge/AdobeXD-FFFFFF?logo=AdobeXD&logoColor=white&style=for-the-badge)
+![Wireframe Design](https://img.shields.io/badge/WireframeDesign-F5792A?logo=WireframeDesign&logoColor=white&style=for-the-badge)
+![Material Design](https://img.shields.io/badge/MaterialDesign-00599C?logo=MaterialDesign&logoColor=white&style=for-the-badge)
 
 ### Programming languages
 
