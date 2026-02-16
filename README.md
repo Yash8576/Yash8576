@@ -1,8 +1,20 @@
 # Hi, I'm Yaswanth Ravi Teja Dammalapati :wave:
 
-Software Engineer with hands-on experience designing and building user-centered web and mobile applications, backed by containerized microservices architectures and automated infrastructure. Experienced in **UI/UX design**, from wireframes and interaction flows to production-ready interfaces, alongside delivering IoT monitoring platforms using **Python, Docker, InfluxDB, and Grafana.**
+* **Full-Stack Software Engineer** and Computer Science Master's student at **The University of Georgia**, specializing in high-performance **IoT ecosystems** and **scalable microservices**.
+* Expertise in bridging the gap between **complex hardware integration** and **cloud-scale software architecture**, with a focus on system latency and data integrity.
+* Evolved UGA's IoT infrastructure into a sophisticated data platform by engineering an end-to-end ecosystem using **ESP32, Python, and Redis/InfluxDB**, reducing data retrieval latency by **40%**.
+* Full-stack experience ranging from designing **3D-printed hardware enclosures** to developing **cross-platform mobile and web applications** for real-time metric monitoring.
+* Strong background in **DevOps** (Bachelor’s in IT from **NIT Raipur**) with a passion for optimizing distributed systems and containerizing workloads using **Docker and Kubernetes**.
+* Experienced in building secure, low-latency pipelines using **Cloudflare and AWS**.
+* Actively seeking **SDE and DevOps opportunities** to apply expertise in full-stack development and automated infrastructure.
 
-Proficient in implementing **CI/CD pipelines** with **Kubernetes**, and applying Infrastructure as Code with **Terraform** for scalable **AWS** deployments. Strong collaborator who bridges design, frontend, backend, and DevOps, translating complex requirements into intuitive user experiences and reliable systems. Quick learner with a focus on operational excellence and high-quality software delivery.
+Core Technical Stack:
+
+• Languages & Frameworks: Python, C++, Mobile/Web Development, FastAPI\
+• Data & Performance: Redis (Caching), InfluxDB (Time-Series), Performance Optimization\
+• DevOps & Cloud: Docker, Kubernetes, AWS, Cloudflare Tunnels, CI/CD Pipelines\
+• IoT & Hardware: ESP32, Sensor Fusion (BME680, F662), CAD/3D Printing\
+• Monitoring: Grafana, Prometheus, Real-time Visualization\
 
 Always learning. 🤟🏻
 
