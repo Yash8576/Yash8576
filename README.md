@@ -58,6 +58,27 @@ Always learning. 🤟🏻
 
 ### Cloud
 
+
 ![AWS](https://img.shields.io/badge/AWS-3DDC84?logo=AWS&logoColor=white&style=for-the-badge)
 ![Firebase](https://img.shields.io/badge/Firebase-F5792A?logo=Firebase&logoColor=white&style=for-the-badge)
+
+### Certifications:
+
+
+<img src="https://github.com/user-attachments/assets/0f53f0f8-19f6-4bae-801c-f14c8597e19b" width="35%">
+<img src="https://github.com/user-attachments/assets/0f1b12f0-9c66-4c56-b790-de84974e218f" width="35%">
+<img src="https://github.com/user-attachments/assets/c1e7887e-abfa-4ddf-88d0-ffd635aa41a3" width="35%">
+<img src="https://github.com/user-attachments/assets/d5e2248c-8f7a-4d9f-9366-d533bdab0075" width="35%">
+<img src="https://github.com/user-attachments/assets/6173d09f-51b6-44bf-8adc-df8c6899ee1e" width="35%">
+<img src="https://github.com/user-attachments/assets/cc658d63-7225-4b78-a336-26e04412dd85" width="35%">
+<img src="https://github.com/user-attachments/assets/975c92bf-3a08-4768-b0e1-329dc627dc9b" width="35%">
+<img src="https://github.com/user-attachments/assets/f600d6d5-e66f-440a-8b65-1161ee0feebd" width="35%">
+<img src="https://github.com/user-attachments/assets/93ac4701-c87b-47fa-82bd-fe248a9dd991" width="35%">
+
+
+
+
+
+
+
 
