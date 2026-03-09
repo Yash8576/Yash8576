@@ -76,7 +76,7 @@ Always learning. 🤟🏻
 
 ### Certifications:
 
-
+<img src="https://github.com/user-attachments/assets/93ac4701-c87b-47fa-82bd-fe248a9dd991" width="35%">
 <img src="https://github.com/user-attachments/assets/0f53f0f8-19f6-4bae-801c-f14c8597e19b" width="35%">
 <img src="https://github.com/user-attachments/assets/0f1b12f0-9c66-4c56-b790-de84974e218f" width="35%">
 <img src="https://github.com/user-attachments/assets/c1e7887e-abfa-4ddf-88d0-ffd635aa41a3" width="35%">
@@ -85,7 +85,7 @@ Always learning. 🤟🏻
 <img src="https://github.com/user-attachments/assets/cc658d63-7225-4b78-a336-26e04412dd85" width="35%">
 <img src="https://github.com/user-attachments/assets/975c92bf-3a08-4768-b0e1-329dc627dc9b" width="35%">
 <img src="https://github.com/user-attachments/assets/f600d6d5-e66f-440a-8b65-1161ee0feebd" width="35%">
-<img src="https://github.com/user-attachments/assets/93ac4701-c87b-47fa-82bd-fe248a9dd991" width="35%">
+
 
 
 
