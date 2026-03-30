@@ -42,6 +42,7 @@ Always learning. 🤟🏻
 
 ### Mobile app dev
 
+![React-Native](https://img.shields.io/badge/React-Native-61DAFB?logo=React-Native&logoColor=white&style=for-the-badge)
 ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge)
 ![ios](https://img.shields.io/badge/ios-F7DF1E?logo=ios&logoColor=white&style=for-the-badge)
