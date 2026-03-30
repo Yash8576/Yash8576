@@ -10,12 +10,12 @@
 
 ### Core Technical Stack:
 
-• **Languages & Frameworks:** JavaScript, TypeScript, React Native, React, Node.js, Express.js
-• **Mobile Development:** Cross-platform apps, Navigation, State Management (Context API, Redux), Performance Optimization
-• **Backend & APIs:** REST APIs, API Integration, Authentication (JWT), Real-time Data Handling
-• **Cloud & DevOps:** AWS, Firebase, Docker, CI/CD Pipelines
-• **Databases:** PostgreSQL, MongoDB, Redis
-• **Tools & Monitoring:** Git, GitHub, Postman, Debugging, Performance Monitoring
+• **Languages & Frameworks:** JavaScript, TypeScript, React Native, React, Node.js, Express.js.
+• **Mobile Development:** Cross-platform apps, Navigation, State Management (Context API, Redux), Performance Optimization.
+• **Backend & APIs:** REST APIs, API Integration, Authentication (JWT), Real-time Data Handling.
+• **Cloud & DevOps:** AWS, Firebase, Docker, CI/CD Pipelines.
+• **Databases:** PostgreSQL, MongoDB, Redis.
+• **Tools & Monitoring:** Git, GitHub, Postman, Debugging, Performance Monitoring.
 
 Always learning. 🤟🏻
 
