@@ -1,20 +1,34 @@
 # Hi, I'm Yaswanth Ravi Teja Dammalapati :wave:
 
-* **Full-Stack Software Engineer** and Computer Science Master's student at **The University of Georgia**, specializing in high-performance **IoT ecosystems** and **scalable microservices**.
-* Expertise in bridging the gap between **complex hardware integration** and **cloud-scale software architecture**, with a focus on system latency and data integrity.
-* Evolved UGA's IoT infrastructure into a sophisticated data platform by engineering an end-to-end ecosystem using **ESP32, Python, and Redis/InfluxDB**, reducing data retrieval latency by **40%**.
-* Full-stack experience ranging from designing **3D-printed hardware enclosures** to developing **cross-platform mobile and web applications** for real-time metric monitoring.
-* Strong background in **DevOps** (Bachelor’s in IT from **NIT Raipur**) with a passion for optimizing distributed systems and containerizing workloads using **Docker and Kubernetes**.
-* Experienced in building secure, low-latency pipelines using **Cloudflare and AWS**.
-* Actively seeking **SDE and DevOps opportunities** to apply expertise in full-stack development and automated infrastructure.
+* **Full-Stack Mobile Developer** and Computer Science Master's student at **The University of Georgia**, specializing in high-performance **cross-platform mobile applications** and **scalable backend systems**.
 
-Core Technical Stack:
+* Expertise in building end-to-end mobile solutions, bridging **intuitive UI/UX design** with **robust backend architectures**, with a strong focus on performance and responsiveness.
 
-• Languages & Frameworks: Python, C++, Mobile/Web Development, FastAPI\
-• Data & Performance: Redis (Caching), InfluxDB (Time-Series), Performance Optimization\
-• DevOps & Cloud: Docker, Kubernetes, AWS, Cloudflare Tunnels, CI/CD Pipelines\
-• IoT & Hardware: ESP32, Sensor Fusion (BME680, F662), CAD/3D Printing\
-• Monitoring: Grafana, Prometheus, Real-time Visualization\
+* Developed and optimized mobile-first applications using **React Native, TypeScript, and Node.js**, improving application performance and reducing latency in real-time data interactions.
+
+* Full-stack experience spanning **mobile application development**, **API design**, and **cloud integration**, delivering seamless cross-platform experiences for Android and iOS users.
+
+* Strong background in **modern frontend architectures** and state management, with hands-on experience in building scalable, maintainable mobile systems.
+
+* Experienced in developing secure, high-performance applications using **REST APIs, JWT authentication, and cloud services (AWS, Firebase)**.
+
+* Actively seeking **Mobile Developer / SDE opportunities** to build scalable, user-centric applications with modern technologies.
+
+
+### Core Technical Stack:
+
+• **Languages & Frameworks:** JavaScript, TypeScript, React Native, React, Node.js, Express.js
+
+• **Mobile Development:** Cross-platform apps, Navigation, State Management (Context API, Redux), Performance Optimization
+
+• **Backend & APIs:** REST APIs, API Integration, Authentication (JWT), Real-time Data Handling
+
+• **Cloud & DevOps:** AWS, Firebase, Docker, CI/CD Pipelines
+
+• **Databases:** PostgreSQL, MongoDB, Redis
+
+• **Tools & Monitoring:** Git, GitHub, Postman, Debugging, Performance Monitoring
+
 
 Always learning. 🤟🏻
 
