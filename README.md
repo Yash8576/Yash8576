@@ -1,34 +1,21 @@
 # Hi, I'm Yaswanth Ravi Teja Dammalapati :wave:
 
 * **Full-Stack Mobile Developer** and Computer Science Master's student at **The University of Georgia**, specializing in high-performance **cross-platform mobile applications** and **scalable backend systems**.
-
 * Expertise in building end-to-end mobile solutions, bridging **intuitive UI/UX design** with **robust backend architectures**, with a strong focus on performance and responsiveness.
-
 * Developed and optimized mobile-first applications using **React Native, TypeScript, and Node.js**, improving application performance and reducing latency in real-time data interactions.
-
 * Full-stack experience spanning **mobile application development**, **API design**, and **cloud integration**, delivering seamless cross-platform experiences for Android and iOS users.
-
 * Strong background in **modern frontend architectures** and state management, with hands-on experience in building scalable, maintainable mobile systems.
-
 * Experienced in developing secure, high-performance applications using **REST APIs, JWT authentication, and cloud services (AWS, Firebase)**.
-
 * Actively seeking **Mobile Developer / SDE opportunities** to build scalable, user-centric applications with modern technologies.
-
 
 ### Core Technical Stack:
 
 • **Languages & Frameworks:** JavaScript, TypeScript, React Native, React, Node.js, Express.js
-
 • **Mobile Development:** Cross-platform apps, Navigation, State Management (Context API, Redux), Performance Optimization
-
 • **Backend & APIs:** REST APIs, API Integration, Authentication (JWT), Real-time Data Handling
-
 • **Cloud & DevOps:** AWS, Firebase, Docker, CI/CD Pipelines
-
 • **Databases:** PostgreSQL, MongoDB, Redis
-
 • **Tools & Monitoring:** Git, GitHub, Postman, Debugging, Performance Monitoring
-
 
 Always learning. 🤟🏻
 
